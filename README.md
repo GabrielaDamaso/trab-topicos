@@ -2,7 +2,7 @@
 
 **Autores:**
 - Gabriela Dâmaso Rezende (Instituto Federal de Minas Gerais, Bambuí, Minas Gerais)
-  - E-mail: gabriela.damaso@hotmail.com
+  - E-mail: damasogabriela@gmail.com
 - Higor Pereira Silva (Instituto Federal de Minas Gerais, Bambuí, Minas Gerais)
   - E-mail: higorps198@gmail.com
 
