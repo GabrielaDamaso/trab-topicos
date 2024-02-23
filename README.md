@@ -18,6 +18,6 @@ A Dengue é uma doença transmitida pela picada da fêmea do mosquito do gênero
 
 ## Abstract
 
-Dengue is a disease transmitted by the bite of the female mosquito of the Aedes aegypti genus. With the aim of carrying out a social role and enabling preventive measures, the prediction of Dengue cases incidence is valid and relevant in assisting to avoid future cases. To develop a predictive model, the technique of an Artificial Neural Network (ANN) will be used. This study aims to develop a predictive model for Dengue cases in the city of Bambuí, MG, using Artificial Neural Networks.
+Dengue is a disease transmitted by the bite of the female mosquito of the genus Aedes aegypti. With the aim of carrying out a social role and enabling preventive measures, the prediction of Dengue cases incidence is valid and relevant in assisting to avoid future cases. To develop a predictive model, the technique of an Artificial Neural Network (ANN) will be used. This study aims to develop a predictive model for Dengue cases in the city of Bambuí, MG, using Artificial Neural Networks.
 
 **Keywords:** Dengue, Artificial neural network, LSTM, Case prediction.
